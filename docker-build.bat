@@ -1,0 +1,1 @@
+docker build -f Dockerfile -t container-exercise-v4.8:latest .

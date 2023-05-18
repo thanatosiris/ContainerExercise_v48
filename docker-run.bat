@@ -1,0 +1,1 @@
+docker run -it --rm -p 8080:80 container-exercise-v4.8
